@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey, I'm Vedang 
 🔭 Building a movie/series recommendation website<br>🎓 B.Sc. Computer Science, Mumbai University (D.G. Ruparel College)<br>🌱 Learning Supervised Machine Learning (DeepLearning.ai & Stanford)<br>💬 Passionate about AI/ML — especially NLP<br>⚡ Fun fact: I’m lazy, so I write efficient code 😎
 
 
