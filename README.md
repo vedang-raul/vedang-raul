@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Vedang 
-🔭 Im currently working on a movie/ series recommendation website<br> 
+🔭 Im currently working on a Credit Card fraud detection tool<br> 
 🎓 B.Sc. Computer Science, Mumbai University( D.G. Ruparel College)<br> 
 🌱 Learning Supervised Machine Learning( DeepLearning.ai & Stanford)<br> 
 💬 Passionate about AI/ ML — especially NLP<br> 
@@ -15,10 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedang-raul&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vedang-raul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedang-raul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vedang-raul&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vedang-raul&icon=0&color=0)](https://visitcount.itsvg.in)
