@@ -1,5 +1,4 @@
 # 👋 Hey, I'm Vedang 
-🔭 Im currently working on a Credit Card fraud detection tool<br> 
 🎓 B.Sc. Computer Science, Mumbai University( D.G. Ruparel College)<br> 
 🌱 Learning Supervised Machine Learning( DeepLearning.ai & Stanford)<br> 
 💬 Passionate about AI/ ML<br> 
